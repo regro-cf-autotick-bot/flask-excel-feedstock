@@ -35,8 +35,10 @@ about:
   license: BSD-3-Clause
   license_family: BSD
   license_file: LICENSE
-  summary: A flask extension using pyexcel to read, manipulate and write data in different excel formats: csv, ods, xls, xlsx and xlsm.
-  description: A flask extension that provides one application programming interface to read and write data in different excel file formats
+  summary: "A flask extension using pyexcel to read, manipulate and write data in different excel formats: csv, ods, xls, xlsx and xlsm."
+  description: |
+    A flask extension that provides one application programming interface
+    to read and write data in different excel file formats
   dev_url: https://github.com/pyexcel-webwares/Flask-Excel
 
 extra:
